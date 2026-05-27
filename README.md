@@ -6,7 +6,7 @@ A React Native chat application built with Expo and TypeScript. The app includes
 
 The latest Expo EAS Android build is available here:
 
-- Download / build details: https://expo.dev/accounts/workbysuraj/projects/ChatApp/builds/eea1b553-4704-4654-ac5b-6653d64fc876
+- Download / build details: https://expo.dev/accounts/workbysuraj/projects/ChatApp/builds/013ba9cf-6296-4195-8cad-a01ce644d908
 
 Note: The Expo build page may require the build to finish processing before the APK download button appears.
 
